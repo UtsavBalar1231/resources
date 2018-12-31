@@ -28,7 +28,7 @@ Please feel free to look, build, and use our code at [URL="http://github.com/rev
 -Backup each and every partition from TWRP Recovery(optional) 
 -Make a full wipe (system, data, cache, dalvik) 
 -Flash RevengeOS Package 
--Install GAPPS package 
+-Flash Magisk for Root
 -Wipe cache! -And at last Reboot!
 [First boot will take few minutes! Have patience]
 Clean Flash is always recommended![/b][/CODE]
