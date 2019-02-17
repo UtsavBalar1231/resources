@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   height="142"
+   width="1002"
+   version="1.1"
+   viewBox="0 0 1002 142"
+   data-name="Livello 1"
+   id="Livello_1">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tavola disegno 5</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <style
+       id="style2">.cls-1{fill:#303030;}.cls-2{fill:url(#Sfumatura_senza_nome_21);}.cls-3{fill:url(#Sfumatura_senza_nome_21-2);}.cls-4{fill:url(#Sfumatura_senza_nome_21-3);}.cls-5{fill:url(#Sfumatura_senza_nome_21-4);}</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="512.45001"
+       x2="418.20001"
+       y1="569.20001"
+       x1="361.45001"
+       id="Sfumatura_senza_nome_21">
+      <stop
+         id="stop4"
+         stop-color="#058fff"
+         offset="0" />
+      <stop
+         id="stop6"
+         stop-color="#00ffd2"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.5812399,0,0,0.58238698,-56.990305,-243.48603)"
+       xlink:href="#Sfumatura_senza_nome_21"
+       y2="497.5"
+       x2="1070.88"
+       y1="667.48999"
+       x1="900.90002"
+       id="Sfumatura_senza_nome_21-2" />
+    <linearGradient
+       gradientTransform="matrix(0.5812399,0,0,0.58238698,-56.990305,-243.48603)"
+       xlink:href="#Sfumatura_senza_nome_21"
+       y2="515.94"
+       x2="1796.17"
+       y1="696.22998"
+       x1="1615.88"
+       id="Sfumatura_senza_nome_21-3" />
+    <linearGradient
+       gradientTransform="matrix(0.5812399,0,0,0.58238698,-56.990305,-243.48603)"
+       xlink:href="#Sfumatura_senza_nome_21"
+       y2="383.76999"
+       x2="1784.2"
+       y1="564.06"
+       x1="1603.9"
+       id="Sfumatura_senza_nome_21-4" />
+    <linearGradient
+       y2="512.45001"
+       x2="418.20001"
+       y1="569.20001"
+       x1="361.45001"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient47"
+       xlink:href="#Sfumatura_senza_nome_21" />
+  </defs>
+  <title
+     id="title14">Tavola disegno 5</title>
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path16"
+     d="M 1,121.00083 H 15.96693 V 71.00292 A 34.932518,35.001456 0 0 1 50.89945,36.00146 V 21.00499 A 49.899445,49.997919 0 0 0 1,71.00292 Z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path18"
+     d="M 806.38344,21.00499 A 49.899445,49.997919 0 1 0 856.2887,71.00292 49.899445,49.997919 0 0 0 806.38344,21.00499 Z m 0,85.0285 a 34.932518,35.001456 0 1 1 34.93252,-35.00146 34.926706,34.995632 0 0 1 -34.93252,34.97234 z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path20"
+     d="m 931.1175,21.00499 a 49.899445,49.997919 0 1 0 49.9227,49.99793 49.899445,49.997919 0 0 0 -49.9227,-49.99793 z m 0,85.0285 A 34.932518,35.001456 0 1 1 966.05,71.03203 34.932518,35.001456 0 0 1 931.1175,106.00437 Z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path22"
+     d="m 436.48237,71.00292 a 49.905258,50.003744 0 0 0 -99.8047,0 v 49.99791 h 14.94368 V 71.00292 a 34.932518,35.001456 0 0 1 69.86503,0 v 49.99791 h 14.99599 z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path24"
+     d="m 141.38106,40.95175 -5.29509,-5.30555 a 49.899445,49.997919 0 1 0 0,70.71342 L 125.51902,95.75436 a 34.93833,35.007279 0 0 1 -43.53486,4.72898 z m -70.00453,48.9205 a 34.93833,35.007279 0 0 1 48.24291,-48.33812 z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path26"
+     d="m 331.66157,40.95175 -5.28929,-5.30555 a 49.905258,50.003744 0 1 0 0,70.71342 L 315.78791,95.75436 a 34.944143,35.013104 0 0 1 -43.54069,4.72898 z m -69.99872,48.9205 a 34.93833,35.007279 0 0 1 48.24291,-48.33812 z"
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path28"
+     d="m 656.6793,40.95175 -5.28929,-5.30555 a 49.905258,50.003744 0 1 0 0,70.71342 L 640.79982,95.75436 a 34.93833,35.007279 0 0 1 -43.53487,4.72898 z m -69.99873,48.9205 a 34.93833,35.007279 0 0 1 48.24292,-48.33812 z"
+     class="cls-1" />
+  <polygon
+     transform="matrix(0.5812399,0,0,0.58238695,-56.990305,-243.48604)"
+     style="fill:url(#linearGradient47)"
+     id="polygon30"
+     points="341.29,454.15 367.05,454.15 440.02,625.85 414.26,625.85 "
+     class="cls-2" />
+  <polygon
+     style="fill:#303030"
+     transform="matrix(0.5812399,0,0,0.58238695,-56.990305,-243.48604)"
+     id="polygon32"
+     points="487.24,454.15 513,454.15 474.36,625.85 448.61,625.85 375.63,454.15 401.39,454.15 457.52,586.22 "
+     class="cls-1" />
+  <path
+     style="fill:#303030;stroke-width:0.5818131"
+     id="path34"
+     d="m 491.34561,21.00499 a 49.899445,49.997919 0 1 0 49.90525,49.99793 49.899445,49.997919 0 0 0 -49.90525,-49.99793 z m 0,85.0285 a 34.932518,35.001456 0 1 1 34.93251,-35.00146 34.926706,34.995632 0 0 1 -34.93251,34.97234 z"
+     class="cls-1" />
+  <path
+     style="fill:url(#Sfumatura_senza_nome_21-2);stroke-width:0.5818131"
+     id="path36"
+     d="m 530.16081,32.11112 a 54.892296,55.000624 0 0 1 -77.62459,77.7836 l -10.59019,10.61109 a 69.869775,70.00766 0 0 0 98.81078,-99.00578 z"
+     class="cls-3" />
+  <path
+     style="fill:url(#Sfumatura_senza_nome_21-3);stroke-width:0.5818131"
+     id="path38"
+     d="M 931.1175,141 H 861.25249 V 126.00353 H 931.1175 A 54.956233,55.064687 0 0 0 986.0331,71.00292 H 1001 A 69.934785,70.072798 0 0 1 931.1175,141 Z"
+     class="cls-4" />
+  <path
+     style="fill:url(#Sfumatura_senza_nome_21-4);stroke-width:0.5818131"
+     id="path40"
+     d="M 876.24848,71.00292 H 861.27574 A 69.940597,70.078622 0 0 1 931.1175,1 h 69.8593 v 15.00229 h -69.8593 a 54.956233,55.064687 0 0 0 -54.86902,55.00063 z"
+     class="cls-5" />
+</svg>
