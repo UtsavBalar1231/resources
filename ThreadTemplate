@@ -1,12 +1,11 @@
+Thread Title - [ROM][AOSP] RevengeOS 3.0 | DEVICE (codename) [UNOFFICIAL]
 
-Thread Title - [ROM][CAF] RevengeOS 2.4 | DEVICECODENAME [UNOFFICIAL]
+[CENTER][img]https://github.com/RevengeOS/Documents/raw/master/Images/revenge-Q.jpg?raw=true[/img][/CENTER]
 
-[CENTER][img]https://i.imgur.com/VcpMssw.png[/img][/CENTER]
-
-[B][SIZE="4"][COLOR="Black"][FONT="Georgia"]RevengeOS is an aftermarket firmware based on CAF (CodeAurora). We are dedicated to fast, stable and mininal customization rom, honesty and communication with our users, and openness with our code,Hope you will enjoy[/FONT].[/COLOR][/SIZE][/B]  
+[B][SIZE="4"][COLOR="Black"][FONT="Georgia"]RevengeOS is an aftermarket firmware based on AOSP. We are dedicated to a beautiful, fast, stable and minimal customized ROM, honesty and communication with our users, and openness with our code, Hope you will enjoy[/FONT].[/COLOR][/SIZE][/B]  
 
 
-Please feel free to look, build, and use our code at [URL="http://github.com/revengeoS"]RevengeOS GitHub[/URL].
+Please feel free to look, build, and use our code at [URL="http://github.com/RevengeOS"]RevengeOS GitHub[/URL].
 
 [SIZE="3"][B]Also, we got our [URL="https://t.me/itsrevengeos"]Telegram Group[/URL] to talk about the ROM, share some love, ideas or even have fun with us[/B][/SIZE]
 
@@ -16,17 +15,20 @@ Please feel free to look, build, and use our code at [URL="http://github.com/rev
 
 [SIZE="3"][B][U][COLOR="DeepSkyBlue"] Download ROM here for your device![/COLOR][/U][/B][/SIZE] 
 
-[URL="https://get.revengeos.com/"][COLOR="RoyalBlue"][SIZE="3"][B]DEVICE NAME[/B][/SIZE][/COLOR][/URL]
+[URL="hhtps://revengeos.com"][COLOR="RoyalBlue"][SIZE="3"][B]Device Codename[/B][/SIZE][/COLOR][/URL]
+
+[B]What's Working[/B]
 
 
+[B]BUGS:[/B]
 
 
-[b]-Download the ROM 
--Backup each and every partition from TWRP Recovery(optional) 
--Make a full wipe (system, data, cache, dalvik) 
--Flash RevengeOS Package 
+[b] Download the ROM 
+- Backup each and every partition from TWRP Recovery(optional) 
+- Make a full wipe (system, vendor, data, cache, dalvik) 
+- Flash RevengeOS Package 
 - Flash gapps
--Wipe cache! -And at last Reboot!
+- Wipe cache! -And at last Reboot!
 [First boot will take few minutes! Have patience]
 Clean Flash is always recommended![/b]
 
@@ -36,6 +38,6 @@ Clean Flash is always recommended![/b]
 ->How to take Logcats?
  [url]https://goo.gl/UcTM9[/url] and [url]https://goo.gl/J4CSEP[/url] [/COLOR][/COLOR][/B][/SIZE]
 
-[SIZE="3"][B]Checkout this ROM!
-YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
-```
+[SIZE="3"][B]Like my Work?[/B][/SIZE]
+[B]Buy me a Beer or Coffee[/B]
+[URL=https://paypal.me/lucchetto]Donate[/URL]
